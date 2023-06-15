@@ -1,0 +1,15 @@
+E:\C# projects\Variant_of params\variant\obj\Debug\net6.0\variant.csproj.AssemblyReference.cache
+E:\C# projects\Variant_of params\variant\obj\Debug\net6.0\variant.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# projects\Variant_of params\variant\obj\Debug\net6.0\variant.AssemblyInfoInputs.cache
+E:\C# projects\Variant_of params\variant\obj\Debug\net6.0\variant.AssemblyInfo.cs
+E:\C# projects\Variant_of params\variant\obj\Debug\net6.0\variant.csproj.CoreCompileInputs.cache
+E:\C# projects\Variant_of params\variant\bin\Debug\net6.0\variant.exe
+E:\C# projects\Variant_of params\variant\bin\Debug\net6.0\variant.deps.json
+E:\C# projects\Variant_of params\variant\bin\Debug\net6.0\variant.runtimeconfig.json
+E:\C# projects\Variant_of params\variant\bin\Debug\net6.0\variant.dll
+E:\C# projects\Variant_of params\variant\bin\Debug\net6.0\variant.pdb
+E:\C# projects\Variant_of params\variant\obj\Debug\net6.0\variant.dll
+E:\C# projects\Variant_of params\variant\obj\Debug\net6.0\refint\variant.dll
+E:\C# projects\Variant_of params\variant\obj\Debug\net6.0\variant.pdb
+E:\C# projects\Variant_of params\variant\obj\Debug\net6.0\variant.genruntimeconfig.cache
+E:\C# projects\Variant_of params\variant\obj\Debug\net6.0\ref\variant.dll
